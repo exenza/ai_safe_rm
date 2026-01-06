@@ -37,13 +37,13 @@ Before installation, ensure you have both required files:
 ### Manual Download
 
 1. Download both files manually:
-   - [safe-rm.sh](https://gitlab.aws.dev/masberta/safe_rm_kiro/-/raw/main/safe-rm.sh)
-   - [install.sh](https://gitlab.aws.dev/masberta/safe_rm_kiro/-/raw/main/install.sh)
+   - [safe-rm.sh](https://raw.githubusercontent.com/exenza/ai_safe_rm/refs/heads/main/safe_rm.sh)
+   - [install.sh](https://raw.githubusercontent.com/exenza/ai_safe_rm/refs/heads/main/install.sh)
 
     Or clone this repository:
     ```bash
-    git clone git@ssh.gitlab.aws.dev:masberta/safe_rm_kiro.git
-    cd safe_rm_kiro
+    git clone https://github.com/exenza/ai_safe_rm.git
+    cd ai_safe_rm
     ```
 
 2. Make the installer executable and run it:
