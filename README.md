@@ -37,7 +37,7 @@ Before installation, ensure you have both required files:
 ### Manual Download
 
 1. Download both files manually:
-   - [safe-rm.sh](https://raw.githubusercontent.com/exenza/ai_safe_rm/refs/heads/main/safe_rm.sh)
+   - [safe-rm.sh](https://raw.githubusercontent.com/exenza/ai_safe_rm/refs/heads/main/safe-rm.sh)
    - [install.sh](https://raw.githubusercontent.com/exenza/ai_safe_rm/refs/heads/main/install.sh)
 
     Or clone this repository:
