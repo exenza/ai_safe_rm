@@ -59,17 +59,17 @@ Before installation, ensure you have both required files:
 
 The installer provides three installation methods:
 
-### 1. User-level (Alias Method) - **Recommended**
+### 1. User-level (Alias Method) - **Recommended for initial testing**
 - Creates a shell alias for the current user only
 - Safest option, easy to remove
 - Use `\rm` to access original `rm` when needed
 
-### 2. User-level (Binary Method)
+### 2. User-level (Binary Method) - **Required** to avoid unwanted `rm` from AI
 - Installs binary to `~/bin/rm`
 - Works with scripts and non-interactive shells
 - Use `rm.real` to access original `rm` when needed
 
-### 3. System-wide
+### 3. System-wide - **YOLO** to go nuclear.
 - Installs to `/usr/local/bin/rm` for all users
 - Requires administrator privileges (sudo)
 - Use `rm.real` to access original `rm` when needed
