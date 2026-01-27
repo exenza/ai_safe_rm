@@ -22,7 +22,7 @@
 
 It's strongly suggested you test this repository on a disposable cloud instance or virtual machine. If you really would like to try this on your main machine **avoid** *Install Option 3 - System Wide*.* 
 
-Antying you do **is reversable** and the script has an un-installation option, despite this, be extra careful and use at your own risk! 
+Anything you do **is reversable** and the script has an un-installation option, despite this, be extra careful and use at your own risk! 
 
 -- YOU HAVE BEEN WARNED! --
 
